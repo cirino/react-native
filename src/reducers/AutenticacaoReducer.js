@@ -1,6 +1,6 @@
 const INITIAL_STATE = {
-    nome: 'Jorge',
-    email: 'jorge@teste.com.br',
+    nome: 'Cirino',
+    email: 'cirino@versaobeta.com.br',
     senha: '12345'
 }
 

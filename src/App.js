@@ -1,4 +1,3 @@
-/*
 import React from 'react';
 import { Provider } from 'react-redux';
 import { createStore } from 'redux';
@@ -11,8 +10,7 @@ export default props => (
         <Routes />
     </Provider>
 );
-*/
-
+/*
 import React, { Component } from 'react';
 import { Router, Scene } from 'react-native-router-flux';
 
@@ -31,3 +29,4 @@ export default class App extends Component {
     )
   }
 }
+*/

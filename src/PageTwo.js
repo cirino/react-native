@@ -5,7 +5,7 @@ export default class PageOne extends Component {
   render() {
     return (
         <View style={{margin: 128}}>
-        <Text>This is PageTwo!</Text>
+        <Text>Pagina 2!</Text>
         <Text>{this.props.text}</Text>
         </View>
     )
